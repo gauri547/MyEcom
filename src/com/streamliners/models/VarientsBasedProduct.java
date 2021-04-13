@@ -14,8 +14,8 @@ public class VarientsBasedProduct extends Product {
     public String toString() {
         return "VarientsBasedProduct{" +
                 "name='" + name + '\'' +
-                ", imageURL='" + imageURL + '\'' +
-                ", variants ='" + variants + '\'' +
+                ", imageURL=" + imageURL + '\'' +
+                ", variants =" + variants + '\'' +
                 '}';
     }
 }
